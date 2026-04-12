@@ -1,0 +1,96 @@
+{
+  "package_name": "Free-Synthwave-Loop-Pack-Segment-4",
+  "release": "v1.0.0",
+  "files": [
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 172,
+      "sha256": "177937171e6a8ef17284f219ea0fd51e840b80910ea0f4f5488abf199b683704"
+    },
+    {
+      "file": "Combat_Vector_122BPM_Cm.wav",
+      "bytes": 1388108,
+      "sha256": "04885a7fb6653c0f1d1628fd5ec1b60ca7d4e05039a04ff040aecdd2ed9774b5"
+    },
+    {
+      "file": "Combat_Vector_122BPM_Cm_NO_DRUMS.wav",
+      "bytes": 1388108,
+      "sha256": "ab9edec2e4cfd944ca9b1fce6ac1ca7d2c3203f7f8e87bcf436d4266533885ba"
+    },
+    {
+      "file": "Interceptor_126BPM_Dm.wav",
+      "bytes": 1344044,
+      "sha256": "9f072d211ea294b7b45e1c7fb79a210854440ae2067e43a86d17f7b79f1222c1"
+    },
+    {
+      "file": "Interceptor_126BPM_Dm_NO_DRUMS.wav",
+      "bytes": 1344044,
+      "sha256": "f9b750138f804e177dcad661f489039b91a55330a944b0398e57a61c7125666d"
+    },
+    {
+      "file": "LICENSE-SAMPLES.md",
+      "bytes": 627,
+      "sha256": "f0791f1e59ce58d50596fb4090d2cbdd4d9e8c225a0a57f889f153cf60ced7e3"
+    },
+    {
+      "file": "Night_Hunter_128BPM_Em.wav",
+      "bytes": 1323044,
+      "sha256": "fd9a25be64a3e5238925197ad8ad94c8c634b75826f7d8b3d666b077ff39a997"
+    },
+    {
+      "file": "Night_Hunter_128BPM_Em_NO_DRUMS.wav",
+      "bytes": 1323044,
+      "sha256": "a541cb0391dfe531f545f354eddcd1690b50dfede42fda2a4d709eaec02f242c"
+    },
+    {
+      "file": "PACK_INFO.json",
+      "bytes": 448,
+      "sha256": "ccb1199852cb8acca5c036ac5e664013da3aa83255eb741228af038cbddd5e14"
+    },
+    {
+      "file": "Pursuit_Protocol_124BPM_Fm.wav",
+      "bytes": 1365720,
+      "sha256": "557825a5babe12221c5246dc5b510f84e4b4a53fdde645701bb6c3df11b31566"
+    },
+    {
+      "file": "Pursuit_Protocol_124BPM_Fm_NO_DRUMS.wav",
+      "bytes": 1365720,
+      "sha256": "dbbee0f95142b3b14b36bb09d65300302fc6b234a5502ce3ce06fd0f17c0a192"
+    },
+    {
+      "file": "Pursuit_Protocol_ARP_124BPM.wav",
+      "bytes": 1365720,
+      "sha256": "60b7af27adfcdc46233d740b32cb30b4b57cb6b84a653c537f94b67feacf448f"
+    },
+    {
+      "file": "Pursuit_Protocol_LEAD_124BPM.wav",
+      "bytes": 1365720,
+      "sha256": "75543844fd897f22c44cb9fbcf8b074e50e796050ae6ac3251a01b2950cb5d82"
+    },
+    {
+      "file": "Pursuit_Protocol_STABS_124BPM.wav",
+      "bytes": 1365720,
+      "sha256": "78a8fd49aab7c4d33b99c27c6d808f913f72d1bcf64db924c30a84d1eb9bd7b3"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1172,
+      "sha256": "bd8f07ca888bca18549a60eadf897127e7ce740afcaaa1b1828de20e80d72a4e"
+    },
+    {
+      "file": "Redline_Shadow_130BPM_Gm.wav",
+      "bytes": 1302688,
+      "sha256": "9bbefffe83e58ac4d46fb188cee34f0870ee79b9779797ab7dda5d10e902f324"
+    },
+    {
+      "file": "Redline_Shadow_130BPM_Gm_NO_DRUMS.wav",
+      "bytes": 1302688,
+      "sha256": "b916f00d64ca15d6141c8debeac23f7c1ce5d3e4dadeaa7b8e38c193788314de"
+    },
+    {
+      "file": "loop_manifest.csv",
+      "bytes": 834,
+      "sha256": "005c745659a91a91b4f2c904fe9dfc95b9bb23ae3b37d4bbebbffd5cc62cef15"
+    }
+  ]
+}

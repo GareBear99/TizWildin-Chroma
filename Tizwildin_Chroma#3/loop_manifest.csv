@@ -1,0 +1,14 @@
+file,category,bpm,bars,mood
+Pursuit_Protocol_124BPM_Fm.wav,loop,124,4,dark_aggressive
+Pursuit_Protocol_124BPM_Fm_NO_DRUMS.wav,alt_mix,124,4,dark_aggressive
+Interceptor_126BPM_Dm.wav,loop,126,4,dark_aggressive
+Interceptor_126BPM_Dm_NO_DRUMS.wav,alt_mix,126,4,dark_aggressive
+Night_Hunter_128BPM_Em.wav,loop,128,4,dark_aggressive
+Night_Hunter_128BPM_Em_NO_DRUMS.wav,alt_mix,128,4,dark_aggressive
+Redline_Shadow_130BPM_Gm.wav,loop,130,4,dark_aggressive
+Redline_Shadow_130BPM_Gm_NO_DRUMS.wav,alt_mix,130,4,dark_aggressive
+Combat_Vector_122BPM_Cm.wav,loop,122,4,dark_aggressive
+Combat_Vector_122BPM_Cm_NO_DRUMS.wav,alt_mix,122,4,dark_aggressive
+Pursuit_Protocol_ARP_124BPM.wav,stem,124,4,dark_aggressive
+Pursuit_Protocol_LEAD_124BPM.wav,stem,124,4,dark_aggressive
+Pursuit_Protocol_STABS_124BPM.wav,stem,124,4,dark_aggressive
