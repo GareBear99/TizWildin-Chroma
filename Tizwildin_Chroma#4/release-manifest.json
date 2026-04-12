@@ -1,0 +1,96 @@
+{
+  "package_name": "Free-Synthwave-Loop-Pack-Segment-6",
+  "release": "v1.0.0",
+  "files": [
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 161,
+      "sha256": "26e1c7cb82ba77b71801643419399ed8ccbedf7d6b1d881f94129d97b836694a"
+    },
+    {
+      "file": "Eclipse_Cathedral_84BPM_Dm.wav",
+      "bytes": 4032044,
+      "sha256": "a322dc3d4f0e20195a2b0037a8c2b81f05c3b2a25720638eb808368e1a625e8d"
+    },
+    {
+      "file": "Eclipse_Cathedral_84BPM_Dm_NO_DRUMS.wav",
+      "bytes": 4032044,
+      "sha256": "7537a88029922abb26780d94636f204f4ae87aa7d2cae9b2b6acc35ef503041d"
+    },
+    {
+      "file": "Godhand_Abyss_90BPM_Em.wav",
+      "bytes": 3763244,
+      "sha256": "f4c1cf71fd897d2ffc3fe8341e72bd1a546fe3dd72e521d2ed2b6bca2214bf67"
+    },
+    {
+      "file": "Godhand_Abyss_90BPM_Em_NO_DRUMS.wav",
+      "bytes": 3763244,
+      "sha256": "ff9a97689497e583be6da756f9d4b260a6e128dfff89dcef62492f1f03fd9713"
+    },
+    {
+      "file": "LICENSE-SAMPLES.md",
+      "bytes": 627,
+      "sha256": "f0791f1e59ce58d50596fb4090d2cbdd4d9e8c225a0a57f889f153cf60ced7e3"
+    },
+    {
+      "file": "Obsidian_Throne_88BPM_Fm.wav",
+      "bytes": 3848768,
+      "sha256": "a2728dbe22bd43a6a0a8fc86d606fcbc51105e47595b5fe5f1ea00d22befa7b5"
+    },
+    {
+      "file": "Obsidian_Throne_88BPM_Fm_NO_DRUMS.wav",
+      "bytes": 3848768,
+      "sha256": "e3bbaf9ab409c2a3052a8c52c5509bef7d19a7d8769ea08513c132db176f14de"
+    },
+    {
+      "file": "Obsidian_Throne_BELLS_88BPM.wav",
+      "bytes": 3848768,
+      "sha256": "7ae23078c8e8fe4ee6c13263b9bb632e1545311bfc235544390b8d78bd88f4ed"
+    },
+    {
+      "file": "Obsidian_Throne_CHOIR_88BPM.wav",
+      "bytes": 3848768,
+      "sha256": "a3b8a8dbbe18331ef7cc3e275001d272c08bf59b8deeb86738d213438de0137b"
+    },
+    {
+      "file": "Obsidian_Throne_PAD_88BPM.wav",
+      "bytes": 3848768,
+      "sha256": "72362780a24fec336d99ae6fcc22e39476fb9ac5a3c2df18b68e599c1060d21e"
+    },
+    {
+      "file": "PACK_INFO.json",
+      "bytes": 451,
+      "sha256": "617206a9c62641542345938a3ab2800339c22ee94cff6ffb1b4a97398cd8d7d6"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1311,
+      "sha256": "499628b4bad5578d986b1d6b0dd3d9b1d0ed341429f8e2c9d4e08a5d9c1b12de"
+    },
+    {
+      "file": "Ritual_Singularity_82BPM_Cm.wav",
+      "bytes": 4130384,
+      "sha256": "f48a9ac0e30d5a7d2f60c43664d0ead1b468ae36d3721ba6a5580f7e98930c9c"
+    },
+    {
+      "file": "Ritual_Singularity_82BPM_Cm_NO_DRUMS.wav",
+      "bytes": 4130384,
+      "sha256": "2fdd62e7e3e9cd69f76d164dabb939c8c743380a17157f4831875074f4c7ba01"
+    },
+    {
+      "file": "Seraph_of_Dread_86BPM_Gm.wav",
+      "bytes": 3938276,
+      "sha256": "a5817c1714d09ac2c71e57431d4e8477c0d00b1710d0ec33ae0b905bb62f6779"
+    },
+    {
+      "file": "Seraph_of_Dread_86BPM_Gm_NO_DRUMS.wav",
+      "bytes": 3938276,
+      "sha256": "140454061a66410eb6035ba159cf11e385edd9d7ef7a420eaf1e6d5f913c8d7a"
+    },
+    {
+      "file": "loop_manifest.csv",
+      "bytes": 869,
+      "sha256": "4520683c8c9551eff64989f417ee034980f9d63296bf5bf4df5ee88de453f326"
+    }
+  ]
+}
