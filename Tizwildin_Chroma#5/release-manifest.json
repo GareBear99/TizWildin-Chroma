@@ -1,0 +1,96 @@
+{
+  "package_name": "Free-Synthwave-Loop-Pack-Segment-5",
+  "release": "v1.0.0",
+  "files": [
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 173,
+      "sha256": "be9f0c54886990044b7a087bc392c911d6ee55cba070212dc1139a29b5e563ce"
+    },
+    {
+      "file": "Cinema_Hearts_94BPM_Cmaj.wav",
+      "bytes": 3603104,
+      "sha256": "d9e3f5189c48c8676de1c603b3235f8cd5ffae6dd4317e5370c90dff1f9c157a"
+    },
+    {
+      "file": "Cinema_Hearts_94BPM_Cmaj_NO_DRUMS.wav",
+      "bytes": 3603104,
+      "sha256": "efb9a9bff95c06def245a044cbcf54e8b96d9bbfa818fd3b8df409f62fd0de4b"
+    },
+    {
+      "file": "Heartline_Horizon_96BPM_Amaj.wav",
+      "bytes": 3528044,
+      "sha256": "673521ec600e882dd65bc28ad59fbe6757bfaed9f6796ff1ff427aca0014784b"
+    },
+    {
+      "file": "Heartline_Horizon_96BPM_Amaj_NO_DRUMS.wav",
+      "bytes": 3528044,
+      "sha256": "c65b5e67c1f37c573c412573e42d40e54fc963388ee71e1811b36ed11fdb7816"
+    },
+    {
+      "file": "Heartline_Horizon_BELLS_96BPM.wav",
+      "bytes": 3528044,
+      "sha256": "639f2d5f93dabdd71f46730145481ed8456eea8f10df901b7e10012fc121b9b7"
+    },
+    {
+      "file": "Heartline_Horizon_LEAD_96BPM.wav",
+      "bytes": 3528044,
+      "sha256": "4077306179063212c1699ad775eb8b3a52749bc7c73e036f44556b7c421b84ff"
+    },
+    {
+      "file": "Heartline_Horizon_PAD_96BPM.wav",
+      "bytes": 3528044,
+      "sha256": "dfe8bda9522777f95cd04f8058117cc3ca1205ba0d94930ae19ced29223d7abc"
+    },
+    {
+      "file": "LICENSE-SAMPLES.md",
+      "bytes": 627,
+      "sha256": "f0791f1e59ce58d50596fb4090d2cbdd4d9e8c225a0a57f889f153cf60ced7e3"
+    },
+    {
+      "file": "Lovers_In_The_Neon_90BPM_Gmaj.wav",
+      "bytes": 3763244,
+      "sha256": "0c92c984acc9b62b4202dc6a457ed2fca6ca661d938872badb4b08725f207009"
+    },
+    {
+      "file": "Lovers_In_The_Neon_90BPM_Gmaj_NO_DRUMS.wav",
+      "bytes": 3763244,
+      "sha256": "5f6af9eac81466bc5bdc468a7c71f964a8664f3de33cc66eb0ec86a03062ff72"
+    },
+    {
+      "file": "PACK_INFO.json",
+      "bytes": 459,
+      "sha256": "94f7fa2153118dca962b96b587fd218e9aa770518dc747d05179286eb83e6810"
+    },
+    {
+      "file": "Pink_Afterlight_92BPM_Fmaj.wav",
+      "bytes": 3681432,
+      "sha256": "5d62f9028379b0939fa158ebc98a1d5b4a3879d6322c8bc211fc88eab3dc2edb"
+    },
+    {
+      "file": "Pink_Afterlight_92BPM_Fmaj_NO_DRUMS.wav",
+      "bytes": 3681432,
+      "sha256": "5381eadf3ae67452810135aaa024d94f1f36f0d326ffac170f6aaddc7bd84eff"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1270,
+      "sha256": "d17610cc59fc856a5fe16fc61664448ff1f5b9228be0ac2783623fdc0ff7cc69"
+    },
+    {
+      "file": "Velvet_Boulevard_98BPM_Dmaj.wav",
+      "bytes": 3456044,
+      "sha256": "f797c1ec5e449d9e579a0469fc84aa796f17d31a559b329cfd80360405e08089"
+    },
+    {
+      "file": "Velvet_Boulevard_98BPM_Dmaj_NO_DRUMS.wav",
+      "bytes": 3456044,
+      "sha256": "82b5f4a13aa5dc0a5eafd626017077da2f059e784e09fff9fa28539643f401df"
+    },
+    {
+      "file": "loop_manifest.csv",
+      "bytes": 896,
+      "sha256": "09b477265757cfd3ce4b3769a260ce021c8e57eb60f34c5786fa6254f929c07d"
+    }
+  ]
+}
