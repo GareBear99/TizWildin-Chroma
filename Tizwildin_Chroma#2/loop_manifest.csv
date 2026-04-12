@@ -1,0 +1,14 @@
+file,category,bpm,bars,mood
+Neon_Glass_112BPM_Cmaj.wav,loop,112,4,crisp_clean
+Neon_Glass_112BPM_Cmaj_NO_DRUMS.wav,alt_mix,112,4,crisp_clean
+Chrome_Skyline_116BPM_Amaj.wav,loop,116,4,crisp_clean
+Chrome_Skyline_116BPM_Amaj_NO_DRUMS.wav,alt_mix,116,4,crisp_clean
+Polished_Pulse_118BPM_Em.wav,loop,118,4,crisp_clean
+Polished_Pulse_118BPM_Em_NO_DRUMS.wav,alt_mix,118,4,crisp_clean
+Laser_Boulevard_114BPM_Dmaj.wav,loop,114,4,crisp_clean
+Laser_Boulevard_114BPM_Dmaj_NO_DRUMS.wav,alt_mix,114,4,crisp_clean
+Crystal_Midnight_108BPM_Bm.wav,loop,108,4,crisp_clean
+Crystal_Midnight_108BPM_Bm_NO_DRUMS.wav,alt_mix,108,4,crisp_clean
+Neon_Glass_ARP_112BPM.wav,stem,112,4,crisp_clean
+Neon_Glass_KEYS_112BPM.wav,stem,112,4,crisp_clean
+Neon_Glass_LEAD_112BPM.wav,stem,112,4,crisp_clean

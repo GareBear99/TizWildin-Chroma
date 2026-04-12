@@ -1,0 +1,30 @@
+[
+  {
+    "file": "Midnight_Drive_100BPM_Am.wav",
+    "bpm": 100,
+    "bars": 4,
+    "seconds": 9.6,
+    "key_hint": "Am"
+  },
+  {
+    "file": "Neon_Nights_110BPM_Dm.wav",
+    "bpm": 110,
+    "bars": 4,
+    "seconds": 8.73,
+    "key_hint": "Dm"
+  },
+  {
+    "file": "Sunset_Circuit_92BPM_Cm.wav",
+    "bpm": 92,
+    "bars": 4,
+    "seconds": 10.43,
+    "key_hint": "Cm"
+  },
+  {
+    "file": "Chrome_Heartbeat_120BPM_Em.wav",
+    "bpm": 120,
+    "bars": 4,
+    "seconds": 8.0,
+    "key_hint": "Em"
+  }
+]

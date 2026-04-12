@@ -1,0 +1,96 @@
+{
+  "package_name": "Free-Synthwave-Loop-Pack-Segment-3",
+  "release": "v1.0.0",
+  "files": [
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 161,
+      "sha256": "bc2aadfd508d76c16c6abfc1de9aa0afa3e081b67ea7bcf5cf0479fa74650dd8"
+    },
+    {
+      "file": "Chrome_Skyline_116BPM_Amaj.wav",
+      "bytes": 1459904,
+      "sha256": "07918c583380b88d2f412a1ab6b8dca3d9b2e4b1a3384535df888e67f0f99426"
+    },
+    {
+      "file": "Chrome_Skyline_116BPM_Amaj_NO_DRUMS.wav",
+      "bytes": 1459904,
+      "sha256": "fcd7ac70d9746568160c044ef43d57f91327a308cc2e06b8a9136cde4afa03d9"
+    },
+    {
+      "file": "Crystal_Midnight_108BPM_Bm.wav",
+      "bytes": 1568044,
+      "sha256": "127190f4101250d24f41eb02e29cff80ce1ba46f383c37dbd4eb5f81fd85a262"
+    },
+    {
+      "file": "Crystal_Midnight_108BPM_Bm_NO_DRUMS.wav",
+      "bytes": 1568044,
+      "sha256": "91bd095bbf43c58212876e8393149ee6659712d93c09a0f2a84cccd83b1e76ba"
+    },
+    {
+      "file": "LICENSE-SAMPLES.md",
+      "bytes": 627,
+      "sha256": "f0791f1e59ce58d50596fb4090d2cbdd4d9e8c225a0a57f889f153cf60ced7e3"
+    },
+    {
+      "file": "Laser_Boulevard_114BPM_Dmaj.wav",
+      "bytes": 1485516,
+      "sha256": "7b1a5c8d6da14e569cbc71a37a9fdf7a7c99d457561a411f03fba45abc194a9a"
+    },
+    {
+      "file": "Laser_Boulevard_114BPM_Dmaj_NO_DRUMS.wav",
+      "bytes": 1485516,
+      "sha256": "a47c4e3d7064232ea511064310efe2f2c574e08d5bbeeff9cb9f66285234fd6c"
+    },
+    {
+      "file": "Neon_Glass_112BPM_Cmaj.wav",
+      "bytes": 1512044,
+      "sha256": "41982f3a18f758342c324a9442c2a9a19547bd5b2a7a2416d5c4066b6c3df450"
+    },
+    {
+      "file": "Neon_Glass_112BPM_Cmaj_NO_DRUMS.wav",
+      "bytes": 1512044,
+      "sha256": "740ae94ca43662474b9ed71a79d325fc5d928ad467029ac4e96d634135146517"
+    },
+    {
+      "file": "Neon_Glass_ARP_112BPM.wav",
+      "bytes": 1512044,
+      "sha256": "a8acc750cad159d9131d7054ebe5fa02134211c43f9394271da8a7149b6d718e"
+    },
+    {
+      "file": "Neon_Glass_KEYS_112BPM.wav",
+      "bytes": 1512044,
+      "sha256": "e56a0e3732f4e25491c96789c63e19507d9f0721dada2c50f1dbeece865833f0"
+    },
+    {
+      "file": "Neon_Glass_LEAD_112BPM.wav",
+      "bytes": 1512044,
+      "sha256": "1d97b586531709ad352ae1372bfae6e34dcffe056dc556c7e5d88f7e1306cb96"
+    },
+    {
+      "file": "PACK_INFO.json",
+      "bytes": 435,
+      "sha256": "e868078334f4f68f646e1679e37c64a704e7d15652c8101e61aa7c9365e58029"
+    },
+    {
+      "file": "Polished_Pulse_118BPM_Em.wav",
+      "bytes": 1435160,
+      "sha256": "a2b13e755e4972c5b74d9c0463feb55e905a1df0fddd37dcb444928c9fdbc62c"
+    },
+    {
+      "file": "Polished_Pulse_118BPM_Em_NO_DRUMS.wav",
+      "bytes": 1435160,
+      "sha256": "cf989b76b554ce2cdc14dd2bb176d2526ddf3c3f0e0b483192663195c42681a3"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1125,
+      "sha256": "7bde7ea580a8981bef2cfbb6d8d957a856ad876552a7e8f3db9db1b94d9355bd"
+    },
+    {
+      "file": "loop_manifest.csv",
+      "bytes": 781,
+      "sha256": "c346be857a31a51fc9ed4089b1e1620996aab1a171fe47242cae88c1be40d9d3"
+    }
+  ]
+}
