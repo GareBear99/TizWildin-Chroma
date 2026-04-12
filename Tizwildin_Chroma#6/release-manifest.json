@@ -1,0 +1,96 @@
+{
+  "package_name": "Free-Synthwave-Loop-Pack-Segment-7",
+  "release": "v1.0.0",
+  "files": [
+    {
+      "file": "Abyssal_Crown_82BPM_Em.wav",
+      "bytes": 2997116,
+      "sha256": "5d51b17541221ee7a3d222f4e4ca191cad8d7b1bcc12b7959fb6fe53cfda38c9"
+    },
+    {
+      "file": "Abyssal_Crown_82BPM_Em_NO_DRUMS.wav",
+      "bytes": 2997116,
+      "sha256": "a17ea74b19a8d559f76a54454b22d4d12c9d7d4e10131ed1552ebe4f056127b6"
+    },
+    {
+      "file": "Black_Halo_Ritual_74BPM_Cm.wav",
+      "bytes": 3321124,
+      "sha256": "1f54a9f584625d606824d352a4d00842899b05688b9b5838abc0a99e05f2171b"
+    },
+    {
+      "file": "Black_Halo_Ritual_74BPM_Cm_NO_DRUMS.wav",
+      "bytes": 3321124,
+      "sha256": "89f2e0ca0328f42576fe74ae0a5e8e52411105192c747c111a77f2bc6cab956f"
+    },
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 175,
+      "sha256": "138e56343e29b30d70fb91e8c8aebfbb0b55a22faca40e91129ff65f1f54767f"
+    },
+    {
+      "file": "LICENSE-SAMPLES.md",
+      "bytes": 627,
+      "sha256": "f0791f1e59ce58d50596fb4090d2cbdd4d9e8c225a0a57f889f153cf60ced7e3"
+    },
+    {
+      "file": "PACK_INFO.json",
+      "bytes": 423,
+      "sha256": "bb12f6b63a0daef345ceda5d77ce4c5b81d5e0f6105e65687570ba8d384ee37d"
+    },
+    {
+      "file": "README.md",
+      "bytes": 515,
+      "sha256": "2ffee2235be5ec520ed83fe1d46a84e2af55b702f89122464cb1bd4432a941c1"
+    },
+    {
+      "file": "Saint_of_Nightfall_76BPM_Gm.wav",
+      "bytes": 3233728,
+      "sha256": "64cfaf32a8f0173cda2d5e58118a249af635a644b5cd2f8876360e9fbdcfa63f"
+    },
+    {
+      "file": "Saint_of_Nightfall_76BPM_Gm_NO_DRUMS.wav",
+      "bytes": 3233728,
+      "sha256": "f45d4a3a49faab63bddf375c973aa7653c5167e62196cfae8adb46301315f8e0"
+    },
+    {
+      "file": "Throne_of_Thorns_80BPM_Fm.wav",
+      "bytes": 3072044,
+      "sha256": "c0891d20930cd622775caeebb4157e5c9623f8ed8d1c178ced117e78164a3f7c"
+    },
+    {
+      "file": "Throne_of_Thorns_80BPM_Fm_NO_DRUMS.wav",
+      "bytes": 3072044,
+      "sha256": "7860ced7eae9a41fc2b92c694d5910c5b8f4ecaa423abfe80fb84a7ea285fdd8"
+    },
+    {
+      "file": "Throne_of_Thorns_CHOIR_80BPM.wav",
+      "bytes": 3072044,
+      "sha256": "09bcf12ff43f37b993ee31640185f433eecf70abdbbe204aa5544d9a04772fa3"
+    },
+    {
+      "file": "Throne_of_Thorns_STRINGS_80BPM.wav",
+      "bytes": 3072044,
+      "sha256": "a263fe75dc3b3126bb57eb8d8c57dc2085b3375db75c75d1d1874c916849d943"
+    },
+    {
+      "file": "Throne_of_Thorns_VIOLIN_80BPM.wav",
+      "bytes": 3072044,
+      "sha256": "1b6dd88224794de54590cc7f8ae09ea40190b1244f5c1a626db5ac6969985950"
+    },
+    {
+      "file": "Widow_Cathedral_78BPM_Dm.wav",
+      "bytes": 3150812,
+      "sha256": "d0559dae7557ff2d8a228d4e81cec38666a56cf81abbb2a3457959c3781a7568"
+    },
+    {
+      "file": "Widow_Cathedral_78BPM_Dm_NO_DRUMS.wav",
+      "bytes": 3150812,
+      "sha256": "c05fd57b0bde04cca0376027e4a2f502496187b9c1327cde9c2734b3924138ab"
+    },
+    {
+      "file": "loop_manifest.csv",
+      "bytes": 970,
+      "sha256": "e69c0f4cdfeee7fd58a95694813f7dde4935fdce60906fea4f944c291214179c"
+    }
+  ]
+}
