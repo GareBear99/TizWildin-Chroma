@@ -1,0 +1,13 @@
+{
+  "name": "Free Synthwave Loop Pack \u2014 Segment 2",
+  "subtitle": "Atmospheric / VHS / Dreamside Companion Set",
+  "version": "v1.0.0",
+  "format": "WAV",
+  "sample_rate_hz": 44100,
+  "bit_depth": 16,
+  "channels": "stereo",
+  "segment_goal": "Cover a completely different synthwave sound aspect from the first pack: slower, moodier, more cinematic, more atmospheric.",
+  "total_audio_files": 7,
+  "full_loops": 4,
+  "stems": 3
+}
