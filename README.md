@@ -1,4 +1,4 @@
-# TizWildin Chroma Loop Sample Pack
+# TizWildin Chroma Loops&Sample Packs
 
 **TizWildin Chroma** is a multi-segment synthwave loop sample pack from **TizWildin Entertainment / Gary Doman**.
 
