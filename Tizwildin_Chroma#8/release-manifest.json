@@ -1,0 +1,86 @@
+{
+  "package_name": "Legato-Violin-Correction-Pack",
+  "release": "v1.0.0",
+  "files": [
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 178,
+      "sha256": "fb182c646624fcba58e094192bf6dadb0642b8f949be8a26fa1cbdd8894ab561"
+    },
+    {
+      "file": "Cathedral_Weeping_70BPM_Em.wav",
+      "bytes": 3510900,
+      "sha256": "2db944345d4054df867e112f85754df6ecd186bd95491549351249dd4b4401b0"
+    },
+    {
+      "file": "Cathedral_Weeping_70BPM_Em_VIOLIN_FOCUS.wav",
+      "bytes": 3510900,
+      "sha256": "db42404c28b62ca260e26ef8daf1d8ecdbd5f9f3807465713092afb576b1c702"
+    },
+    {
+      "file": "Crown_of_Nightfall_68BPM_Cm.wav",
+      "bytes": 3614160,
+      "sha256": "2054f1483754519ade908db4225bb7e88162e2ba2353163b1159e81caa6e2f26"
+    },
+    {
+      "file": "Crown_of_Nightfall_68BPM_Cm_VIOLIN_FOCUS.wav",
+      "bytes": 3614160,
+      "sha256": "ef9ea63de3b3ebec1f6167e24089d2be973ffcfdc8298b7f7656563c4440ed3a"
+    },
+    {
+      "file": "LICENSE-SAMPLES.md",
+      "bytes": 627,
+      "sha256": "f0791f1e59ce58d50596fb4090d2cbdd4d9e8c225a0a57f889f153cf60ced7e3"
+    },
+    {
+      "file": "Lament_of_the_Black_Halo_72BPM_Fm.wav",
+      "bytes": 3413376,
+      "sha256": "b132380a40cdd60bcfeb9f19c847de8af1b21f6a92c77a3ac4eb8b247107322f"
+    },
+    {
+      "file": "Lament_of_the_Black_Halo_72BPM_Fm_VIOLIN_FOCUS.wav",
+      "bytes": 3413376,
+      "sha256": "516a6dbff63f429346a0cd5b5b233a270f5c846bf88a2ec6541cc9e932178418"
+    },
+    {
+      "file": "Lament_of_the_Black_Halo_CHOIR_PAD.wav",
+      "bytes": 3413376,
+      "sha256": "a1fda4d4f6e1d38eb1222c6296f28b91e15d7590f33d83bcfe80ce557701b3af"
+    },
+    {
+      "file": "Lament_of_the_Black_Halo_LOW_PAD.wav",
+      "bytes": 3413376,
+      "sha256": "de6c2883735062293ed3578b202959aed37d514d92cef29e42c196b4943b2b4b"
+    },
+    {
+      "file": "Lament_of_the_Black_Halo_SOLO_VIOLIN.wav",
+      "bytes": 3413376,
+      "sha256": "df1ff8bf69190609f3b2b4681acddefc177f58ce173102322a19e3e5d327e7fe"
+    },
+    {
+      "file": "PACK_INFO.json",
+      "bytes": 422,
+      "sha256": "f1b0c9e34e1b2b2098cdc9e2563b6b416505cef0d7c951ae663559dbcbef55c4"
+    },
+    {
+      "file": "README.md",
+      "bytes": 513,
+      "sha256": "2046809ccd846ddd8e30086bea4201a2840cd9515d1c74f8debef0db14a7cb77"
+    },
+    {
+      "file": "Widow_Saints_74BPM_Dm.wav",
+      "bytes": 3321124,
+      "sha256": "a96862ada6a81ed5d3f924683a0e40f507ffe2eb87d2e66e23ca3c7af9d34139"
+    },
+    {
+      "file": "Widow_Saints_74BPM_Dm_VIOLIN_FOCUS.wav",
+      "bytes": 3321124,
+      "sha256": "dba269d0a334a1c27dba8b325cb7052844a881b4fa0f5df57410e8e55332d2e7"
+    },
+    {
+      "file": "loop_manifest.csv",
+      "bytes": 794,
+      "sha256": "8afc98f970de35fe3ef9a21a744d300988e57fa895bca8521eccd73a74cce4b6"
+    }
+  ]
+}

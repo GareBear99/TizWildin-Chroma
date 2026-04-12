@@ -1,0 +1,14 @@
+{
+  "name": "Legato Violin Correction Pack",
+  "subtitle": "Beautiful dark violin-first music with connected phrasing",
+  "version": "v1.0.0",
+  "format": "WAV",
+  "sample_rate_hz": 32000,
+  "bit_depth": 16,
+  "channels": "stereo",
+  "goal": "Correct the previous miss by prioritizing legato violin motion and beauty over generic synth mass.",
+  "total_audio_files": 11,
+  "full_loops": 4,
+  "alt_mixes": 4,
+  "stems": 3
+}
