@@ -61,56 +61,56 @@ TizWildin-Chroma-Loop-Sample-Pack/
 
 ## Segment overview
 
-### Segment-1_Classic-Drive
+### Segment-1
 - Classic driving synthwave starter set
 - Audio files: 9
 - Full loops: 4
 - Alt mixes: 0
 - Stems: 5
 
-### Segment-3_Crisp-Clean-Premium
+### Segment-2
 - Crisp, clean, premium neon set
 - Audio files: 13
 - Full loops: 5
 - Alt mixes: 5
 - Stems: 3
 
-### Segment-4_Dark-Aggressive-Chase-Combat
+### Segment-3
 - Dark aggressive chase/combat set
 - Audio files: 13
 - Full loops: 6
 - Alt mixes: 5
 - Stems: 2
 
-### Segment-6_Dark-Eerie-Godlike
+### Segment-4
 - Dark eerie godlike ritual set
 - Audio files: 13
 - Full loops: 5
 - Alt mixes: 5
 - Stems: 3
 
-### Segment-5_Emotional-Romantic-Cinematic
+### Segment-5
 - Emotional romantic cinematic neon set
 - Audio files: 13
 - Full loops: 5
 - Alt mixes: 5
 - Stems: 3
 
-### Segment-7_Dark-Eerie-Godlike-Violin
+### Segment-6
 - Dark eerie godlike violin-fused set
 - Audio files: 13
 - Full loops: 5
 - Alt mixes: 5
 - Stems: 3
 
-### Segment-2_Atmospheric-VHS-Dreamside
+### Segment-7
 - Atmospheric VHS dreamside companion set
 - Audio files: 7
 - Full loops: 5
 - Alt mixes: 0
 - Stems: 2
 
-### Segment-7B_Legato-Violin-Correction
+### Segment-8
 - Violin-first legato correction set
 - Audio files: 11
 - Full loops: 4
